@@ -58,7 +58,7 @@ export const Home = () => {
     return (
         <div className="container" data-testid="home-1">
             <div className="heading">
-                <h1 data-testid="text-content">Asteroid Watcher App</h1>
+                <h1 data-testid="text-content">Asteroid Watcher App...</h1>
             </div>
             <br /><br />
 
