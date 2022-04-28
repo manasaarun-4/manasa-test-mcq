@@ -1,0 +1,90 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    /* background-image: url('C:\Users\manasa\Desktop\Assignments\new_changes\assignment_changes\public\nasa.jpg'); */
+    background-size: cover;
+    height: 100vh;
+}
+
+.outbox {
+    height: max-content;
+    width: 40vw;
+    background-color: orangered;
+}
+
+.inputs {
+    background-color: white;
+    border-radius: 5px;
+    border-color: 8px solid gray;
+}
+
+.heading {
+    background-color: orangered;
+    width: 100%;
+    color: white;
+}
+
+h1 {
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    margin-left: 550px;
+}
+
+h4 {
+    color: white;
+}
+
+.entries {
+    padding: 20px;
+    margin: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.buttons {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: orange;
+    color: white;
+}
+
+.buttons:hover {
+    background-color: orange;
+}
+
+#asteroid {
+    background-color: orange;
+}
+
+.carddetails {
+    padding: 30px;
+    margin: 30px;
+    margin-left: 480px;
+    height: max-content;
+    width: max-content;
+    align-items: center;
+    align-content: center;
+    color: white;
+    background-color: orangered;
+
+}
+
+.details {
+    /* background-image: url('C:\Users\manasa\Desktop\Assignments\new_changes\assignment_changes\public\nasa.jpg'); */
+    background-size: cover;
+    height: 100vh;
+    margin-top: -30px;
+}
+
+.butns {
+    align-content: center;
+    margin-left: 640px;
+    width: 160px;
+    height: 60px;
+    background-color: orange;
+    color: white;
+}
